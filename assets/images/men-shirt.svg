@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 440" role="img" aria-label="Classic overshirt">
+<rect width="420" height="440" fill="#d9dfd2"/>
+<circle cx="315" cy="92" r="54" fill="#fff" opacity=".24"/>
+<path d="M0 350 Q110 320 210 350 T420 344 V440 H0Z" fill="#fff" opacity=".22"/>
+<ellipse cx="205" cy="320" rx="94" ry="13" fill="#4a463f" opacity=".12"/>
+<g transform="translate(0 5)"><path d="M160 80 L190 68 L210 80 L240 68 L270 94 L249 126 L235 112 L235 280 L175 280 L175 112 L161 126 L140 94 Z" fill="#6f8067"/><path d="M190 70 L205 110 L220 70 L212 278 L198 278 Z" fill="#ffffff" opacity=".55"/><g stroke="#f7f4ee" stroke-width="2"><path d="M205 120 v130"/><circle cx="205" cy="145" r="2" fill="#f7f4ee"/><circle cx="205" cy="175" r="2" fill="#f7f4ee"/></g></g>
+<text x="22" y="405" font-family="Arial, sans-serif" font-size="12" letter-spacing="3" fill="#4b4a42" opacity=".8">VELORA / EDITION 01</text>
+</svg>

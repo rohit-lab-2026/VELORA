@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 440" role="img" aria-label="Minimal cotton T-shirt">
+<rect width="420" height="440" fill="#e8e0d4"/>
+<circle cx="315" cy="92" r="54" fill="#fff" opacity=".24"/>
+<path d="M0 350 Q110 320 210 350 T420 344 V440 H0Z" fill="#fff" opacity=".22"/>
+<ellipse cx="205" cy="320" rx="94" ry="13" fill="#4a463f" opacity=".12"/>
+<g transform="translate(0 5)"><path d="M140 100 L178 77 L210 92 L240 77 L278 100 L258 132 L238 119 L238 278 L180 278 L180 119 L160 132 Z" fill="#33352f"/></g>
+<text x="22" y="405" font-family="Arial, sans-serif" font-size="12" letter-spacing="3" fill="#4b4a42" opacity=".8">VELORA / EDITION 01</text>
+</svg>

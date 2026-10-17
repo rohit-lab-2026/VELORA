@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 440" role="img" aria-label="Structured shoulder bag">
+<rect width="420" height="440" fill="#e5d4bf"/>
+<circle cx="315" cy="92" r="54" fill="#fff" opacity=".24"/>
+<path d="M0 350 Q110 320 210 350 T420 344 V440 H0Z" fill="#fff" opacity=".22"/>
+<ellipse cx="205" cy="320" rx="94" ry="13" fill="#4a463f" opacity=".12"/>
+<g transform="translate(0 5)"><path d="M160 145 Q160 125 180 125 H230 Q250 125 250 145 L260 265 H150 Z" fill="#72533c"/><path d="M180 130 V110 Q180 75 205 75 Q230 75 230 110 V130" fill="none" stroke="#72533c" stroke-width="10"/><path d="M170 170 H240" stroke="#fff" stroke-width="3" opacity=".45"/></g>
+<text x="22" y="405" font-family="Arial, sans-serif" font-size="12" letter-spacing="3" fill="#4b4a42" opacity=".8">VELORA / EDITION 01</text>
+</svg>

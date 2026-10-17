@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 440" role="img" aria-label="Utility jacket">
+<rect width="420" height="440" fill="#e6d7c3"/>
+<circle cx="315" cy="92" r="54" fill="#fff" opacity=".24"/>
+<path d="M0 350 Q110 320 210 350 T420 344 V440 H0Z" fill="#fff" opacity=".22"/>
+<ellipse cx="205" cy="320" rx="94" ry="13" fill="#4a463f" opacity=".12"/>
+<g transform="translate(0 5)"><path d="M160 85 L190 70 L210 85 L230 70 L260 85 L278 125 L251 140 L240 120 L242 280 L178 280 L180 120 L169 140 L142 125 Z" fill="#7c654b"/><path d="M190 72 L205 112 L220 72 L214 280 L196 280 Z" fill="#fff" opacity=".25"/><path d="M178 180 H240" stroke="#fff" stroke-width="3" opacity=".5"/></g>
+<text x="22" y="405" font-family="Arial, sans-serif" font-size="12" letter-spacing="3" fill="#4b4a42" opacity=".8">VELORA / EDITION 01</text>
+</svg>
